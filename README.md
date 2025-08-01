@@ -29,5 +29,3 @@ To provide insights into key sales metrics to help decision-makers monitor busin
 ## 📷 Preview
 
 <img width="1375" height="781" alt="image" src="https://github.com/user-attachments/assets/fdb09c95-ccba-432b-89a2-4e1cdc18c4c6" />
-> ![Dashboard Preview](assets/sales_dashboard.png)
-
